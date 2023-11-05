@@ -38,3 +38,6 @@ document: The document object represents the entire HTML document and serves as 
 10. Finally, the calculated differences in years, months, and days (`fyear`, `fmonth`, and `fday`) are displayed in their respective HTML elements with IDs 'outputYears', 'outputMonths', and 'outputDays using the `innerText` property.
 
 In summary, this code calculates the difference in years, months, and days between the current date and a user-provided input date, considering edge cases and adjustments as needed, and then displays the results in the specified HTML elements.
+![Screenshot 2023-11-05 223503](https://github.com/divyanshrajpoot9/Age-Claculator-/assets/114856467/8a556c18-f069-4200-ae49-7b2875b1717d)
+![Screenshot 2023-11-05 223651](https://github.com/divyanshrajpoot9/Age-Claculator-/assets/114856467/5e81c925-47ae-4a75-a8b8-25668198a42a)
+![Screenshot 2023-11-05 223526](https://github.com/divyanshrajpoot9/Age-Claculator-/assets/114856467/3f2413b8-da68-4dab-8901-2bf385f7fa8f)
